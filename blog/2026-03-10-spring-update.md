@@ -6,3 +6,4 @@ Spring is here and the blog is growing. This second post shows that Quay handles
 
 - Added a notes folder for quick thoughts
 - Keeping everything in sync with one click
+- This is just mock content
