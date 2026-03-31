@@ -11,3 +11,4 @@ Quay is designed for writers, bloggers, and anyone who works with static site ge
 
 Feel free to edit any file and use Quay to sync your changes back to GitHub.
 test
+test2
