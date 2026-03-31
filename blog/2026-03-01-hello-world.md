@@ -8,4 +8,4 @@ Writing in Markdown is simple:
 - *Italic text* for subtlety
 - [Links](https://example.com) to anywhere
 
-No terminal required. Just write, save, and sync.
+No terminal required. Just write, save, and sync. Simple.
